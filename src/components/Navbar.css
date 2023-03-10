@@ -1,0 +1,6 @@
+.Header {
+    height: 70px;
+    padding:20px 36px;
+    display:flex;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
